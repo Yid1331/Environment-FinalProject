@@ -65,13 +65,13 @@ I set certain clues for the game's story in the environment. Through the interac
 
 ### 03 Video Display
 
-[Current Effect](https://youtu.be/nMbk_nKKWv4)
+[Current Effect Video](https://youtu.be/nMbk_nKKWv4)
 
 ![Screenshot_13](https://user-images.githubusercontent.com/81423727/174875033-d7e4ae6a-0534-4919-89c6-60477302c89f.png)
 
 ![20220621195529](https://user-images.githubusercontent.com/81423727/174876853-c4150fff-7fc9-4a45-9c86-767d4585c048.jpg)
 
-[Our Show](https://www.youtube.com/watch?v=DtEthjvmckE)
+[Our Show Video](https://www.youtube.com/watch?v=DtEthjvmckE)
 
 
 ### 04 Challenge and Future Plan
