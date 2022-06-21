@@ -1,5 +1,9 @@
 # Environment-FinalProject:Horror Environment Adventure (Under continuous development...)
 
+Name: Xiaoyi Dong
+
+Student ID: 21035114
+
 ### 00 Overview
 
 Three years ago, the director of a small private hospital was killed. The suspects were identified as four people: the director's wife, the hospital cleaner, the owner of the hospital coffee shop, and a patient. The case was abruptly terminated during the investigation and the hospital was abandoned, but the scene remained as it was on the day of the crime. Much evidence and clues were kept at the scene.
@@ -58,5 +62,18 @@ I bound the camera to the head of the character's skeleton, and equipped the cha
 
 I set certain clues for the game's story in the environment. Through the interaction between the player and the item, the player can gradually understand the complete story. However, due to limited time, this part is still in the development stage.
 
-### 01 Developer Readme
 
+### 03 Video Display
+
+[Current Effect](https://youtu.be/nMbk_nKKWv4)
+
+![Screenshot_13](https://user-images.githubusercontent.com/81423727/174875033-d7e4ae6a-0534-4919-89c6-60477302c89f.png)
+
+![20220621195529](https://user-images.githubusercontent.com/81423727/174876853-c4150fff-7fc9-4a45-9c86-767d4585c048.jpg)
+
+[Our Show](https://www.youtube.com/watch?v=DtEthjvmckE)
+
+
+### 04 Challenge and Future Plan
+
+During the development process, I found that the workload was much larger than I thought, because I wanted to achieve a near-real interaction between players and characters. At present I still need to increase the interaction between the player and the surrounding items, but I think I have created the initial horror atmosphere, and the next step will be to create a lot of "surprises" in the game.
